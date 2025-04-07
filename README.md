@@ -2,7 +2,7 @@
 
 ---
 
-![Javascript](https://img.shields.io/badge/javascript.svg?style=flat&logo=javascript&logoColor=white)
+![Javascript](https://img.shields.io/badge/javascript-%f0db4f.svg?style=flat&logo=javascript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 ![Vite](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
