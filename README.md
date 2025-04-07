@@ -16,8 +16,8 @@ I recommend to use [Bun](https://bun.sh/), but feel free to use npm or anything 
 
 1. Use this Template:
 
-- click on "use this template"
-- then "create a new repository" and make your custom settings
+  - click on "use this template"
+  - then "create a new repository" and make your custom settings
 
 2. Clone the your new repository:
 
