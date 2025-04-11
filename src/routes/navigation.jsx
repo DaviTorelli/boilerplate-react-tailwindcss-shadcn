@@ -1,14 +1,12 @@
-//* Libraries imports
-import { Grid, Home as HomeIcon } from "lucide-react";
-
 //* Pages imports
 import Home from "@/pages/public";
 import Dashboard from "@/pages/public/dashboard";
+import Help from "@/pages/public/help";
 
 /**
  * 1. Add the path we want or our component to be displayed.
  * 2. Add the component itself
- * 3. Add a icon, to represent this component
+ * 3. Add a name, describe the route
  *
  * @example
  * ```js
@@ -21,8 +19,9 @@ import Dashboard from "@/pages/public/dashboard";
  *
  **/
 const navigation = [
-  { path: "/", component: <Home />, icon: <HomeIcon /> },
-  { path: "/dashboard", component: <Dashboard />, icon: <Grid /> },
+  { path: "/", component: <Home />, name: "Home" },
+  { path: "/dashboard", component: <Dashboard />, name: "Dashboard" },
+  { path: "/help", component: <Help />, name: "Help" },
 ];
 
 export default navigation;
