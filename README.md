@@ -36,6 +36,8 @@ bun install
 
 ```
 bun dev
+// OR
+bun vite
 ```
 
 ---
